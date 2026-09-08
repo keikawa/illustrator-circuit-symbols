@@ -9,9 +9,9 @@
 
 A symbol library for drawing schematics and block diagrams with Adobe Illustrator.
 
-## Preview
+## Screen shot
 
-<img src="Preview.png" alt="Circuit symbols for Illustrator" width="800px">
+<img src="Preview.png" alt="Circuit diagram and Symbols panel in Adobe Illustrator" width="800px">
 
 ## Usage and Recommended Settings
 
