@@ -9,7 +9,7 @@
 
 A symbol library for drawing schematics and block diagrams with Adobe Illustrator.
 
-Other versions: [Inkscape](https://github.com/keikawa/InkscapeCircuitSymbols) · [Affinity Designer](https://github.com/keikawa/affinity-circuit-symbols-asset)
+Other versions: [Affinity Designer](https://github.com/keikawa/affinity-circuit-symbols-asset) · [Inkscape](https://github.com/keikawa/InkscapeCircuitSymbols)
 
 ## Screen shot
 
