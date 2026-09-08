@@ -9,6 +9,8 @@
 
 A symbol library for drawing schematics and block diagrams with Adobe Illustrator.
 
+Other versions: [Inkscape](https://github.com/keikawa/InkscapeCircuitSymbols) · [Affinity Designer](https://github.com/keikawa/affinity-circuit-symbols-asset)
+
 ## Screen shot
 
 <img src="Preview.png" alt="Circuit diagram and Symbols panel in Adobe Illustrator" width="800px">
