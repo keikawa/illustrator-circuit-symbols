@@ -31,4 +31,3 @@ Tips: The schematic symbols are designed with a 1-pt line width. To draw the wir
 
 [MIT Licence](LICENSE)
 
-Based on [affinity-circuit-symbols-asset](https://github.com/keikawa/affinity-circuit-symbols-asset).
