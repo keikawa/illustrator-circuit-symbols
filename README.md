@@ -11,13 +11,13 @@ A symbol library for drawing schematics and block diagrams with Adobe Illustrato
 
 Other versions: [Affinity Designer](https://github.com/keikawa/affinity-circuit-symbols-asset) · [Inkscape](https://github.com/keikawa/InkscapeCircuitSymbols)
 
-## Symbols
-
-<img src="Symbols.png" alt="Circuit symbols for Adobe Illustrator: sources, passive components, transistors, diodes, switches, and digital and analog blocks" width="800px">
-
 ## Screen shot
 
 <img src="Preview.png" alt="Circuit diagram and Symbols panel in Adobe Illustrator" width="800px">
+
+## Symbols
+
+<img src="Symbols.png" alt="Circuit symbols for Adobe Illustrator: sources, passive components, transistors, diodes, switches, and digital and analog blocks" width="800px">
 
 ## Usage and Recommended Settings
 
